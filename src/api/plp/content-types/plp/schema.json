@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "collectionName": "plps",
+  "info": {
+    "singularName": "plp",
+    "pluralName": "plps",
+    "displayName": "PLP"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
